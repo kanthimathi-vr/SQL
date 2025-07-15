@@ -1,0 +1,4 @@
+Jul 15 10:32:12 server sshd[2154]: Accepted password for user from 192.168.1.1 port 22 ssh2
+Jul 15 10:34:45 server sshd[2159]: Failed password from 203.0.113.10 port 22
+Ping from 10.0.0.1 successful
+172.16.254.3 connected at 2023-07-15 10:35:00

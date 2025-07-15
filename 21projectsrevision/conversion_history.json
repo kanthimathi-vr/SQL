@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2025-07-15 10:30:16",
+    "base": "USD",
+    "target": "INR",
+    "amount": 100.0,
+    "converted": 8601.94,
+    "rate": 86.0194
+  }
+]

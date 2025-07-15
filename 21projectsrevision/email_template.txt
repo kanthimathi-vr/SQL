@@ -1,0 +1,11 @@
+Subject: Welcome to {{ plan }} Plan, {{ name }}!
+
+Hi {{ name }},
+
+Thank you for signing up for the {{ plan }} Plan.
+We’re excited to have you on board and can’t wait for you to explore the features we offer.
+
+If you have any questions, just reply to this email.
+
+Cheers,  
+The VetriTeam

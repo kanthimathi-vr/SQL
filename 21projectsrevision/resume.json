@@ -1,0 +1,42 @@
+{
+  "basics": {
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "phone": "123-456-7890",
+    "location": {
+      "city": "San Francisco",
+      "country": "USA"
+    },
+    "summary": "A passionate software developer..."
+  },
+  "work": [
+    {
+      "company": "Tech Corp",
+      "position": "Software Engineer",
+      "startDate": "2020-01-01",
+      "endDate": "2022-06-30",
+      "summary": "Worked on backend APIs and deployment"
+    }
+  ],
+  "education": [
+    {
+      "institution": "State University",
+      "studyType": "Bachelor",
+      "area": "Computer Science",
+      "startDate": "2015-08-01",
+      "endDate": "2019-05-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "Java", "C++"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portfolio Website",
+      "description": "A personal site built with React and Node.js"
+    }
+  ]
+}

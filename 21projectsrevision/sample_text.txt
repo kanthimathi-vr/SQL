@@ -1,0 +1,14 @@
+Hello,
+
+Please contact us at support@example.com for customer service inquiries.
+You can also reach out to john.doe@company.org or jane_smith123@school.edu for academic support.
+
+Some unrelated text here... just to mix things up.
+
+Marketing: promo+offers@newsletter.co.uk
+Dev team: dev-team@sub.domain.io
+
+Oops, here's a malformed one: justtext@wrong..com
+
+Best,
+Example Team
